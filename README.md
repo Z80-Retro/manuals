@@ -22,6 +22,7 @@ Information on where to get manuals for the parts used in the Z80 Retro! project
   - ([PDF](https://github.com/Z80-Retro/manuals/raw/main/cpm/CPM_2.2_Alteration_Guide_1979.pdf)) [CP/M 2.2 System Alteration Guide](cpm/CPM_2.2_Alteration_Guide_1979.pdf)
 - One big book of all the above manuals
   - ([PDF](https://github.com/Z80-Retro/manuals/raw/main/cpm/CPM_Operating_System_Manual_Jul82.pdf)) [CP/M 2.x Operating System Manual](cpm/CPM_Operating_System_Manual_Jul82.pdf)
+  - ([PDF](https://github.com/Z80-Retro/manuals/raw/main/cpm/SID_ZSID.pdf)) [SID/ZSID Manual](cpm/SID_ZSID.pdf)
   
 ## Related documentation
 * [Wikipedia UART Article](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
