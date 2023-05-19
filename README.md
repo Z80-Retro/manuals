@@ -27,3 +27,7 @@ Information on where to get manuals for the parts used in the Z80 Retro! project
 ## Related documentation
 * [Wikipedia UART Article](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter)
 * [AY-3-1015D UART Datasheet](https://rocelec.widen.net/view/pdf/bvesdj0cqf/GSIIS01845-1.pdf) (Has a discussion of the 16X bit-rate clock with diagrams etc. applicable to all UARTs.)
+
+## Highly Recommended Books
+* [The Programmer's CP/M Handbook](http://cpmarchives.classiccmp.org/trs80/Library/Books/Programmers%3F%20CPM%20Handbook%20(Johnson-Laird).pdf), Andy Johnson-Laird, 1983
+* [Z80, Assembly Language Programming](https://archive.org/details/Z-80_Assembly_Language_Programming_1979_Leventhal), Lance Leventhal, 1979
