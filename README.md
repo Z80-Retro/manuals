@@ -10,6 +10,11 @@ Information on where to get manuals for the parts used in the Z80 Retro! project
 * [Z80 CPU Peripherals User Manual UM0081](http://www.zilog.com/docs/z80/um0081.pdf) discusses the CTC and SIO.
 * [Z80 Family Product Specifications Handbook - 1984](http://www.bitsavers.org/components/zilog/z80/Z80_Family_Product_Specifications_Handbook_Feb84.pdf) has nicer pictures of the SIO registers.
 
+## 8080 Manuals
+Note that CP/M was originally written to run on the Intel 8080.  As such its documentation, assembler, debugger, and example code as all written in 8080 Assembly language.
+* ([PDF](https://github.com/Z80-Retro/manuals/raw/main/intel/Intel_8080_Microcomputer_Systems_Users_Manual_1975_09.pdf)) [Intel 8080 Microcomputer Systems User's manual 1975](intel/Intel_8080_Microcomputer_Systems_Users_Manual_1975_09.pdf)
+* ([PDF](https://github.com/Z80-Retro/manuals/raw/main/intel/Intel_8080_Assembly_Language_Programming_Manual_1975_b.pdf)) [Intel 8080 Assembly Language Programming Manual 1975 Rev.B](intel/Intel_8080_Assembly_Language_Programming_Manual_1975_b.pdf)
+
 ## CP/M manuals
 - Individual manual booklets (for the purists):
   - ([PDF](https://github.com/Z80-Retro/manuals/raw/main/cpm/Intro_to_CPM_Feat_and_Facilities.pdf)) [Introduction to CPM Features and Facilities](cpm/Intro_to_CPM_Feat_and_Facilities.pdf)
